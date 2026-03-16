@@ -205,9 +205,9 @@ def print_results_table(results: List[AggregateResult]) -> None:
         print()
 
 
-# ----------------------------
+# --------------------------
 # Main
-# ----------------------------
+# --------------------------
 
 def main():
     parser = argparse.ArgumentParser(description="Benchmark MCTS vs minimax for Coins-in-a-Line.")
