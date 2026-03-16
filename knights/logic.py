@@ -9,7 +9,7 @@ class Sentence:
         return ""
 
     def symbols(self):
-        """Returns a set of all symbols in the logical sentence."""
+        """Returns a set of all symbols in the logical sentence"""
         return set()
 
     @classmethod
